@@ -5,12 +5,24 @@
   const result = document.getElementById('result');
 
   const excuses = [
-    "Nö, so einfach kommst du nicht davon 😏",
-    "Fast erwischt!",
-    "Der Nein-Button ist heute etwas schüchtern...",
-    "Er hat einfach keinen Bock auf 'Nein'.",
-    "Netter Versuch 💨",
-    "Man kann's ja mal probieren, was?"
+      "Nö, so einfach kommst du nicht davon 😏",
+      "Fast erwischt!",
+      "Der Nein-Button ist heute etwas schüchtern...",
+      "Er hat einfach keinen Bock auf 'Nein'.",
+      "Netter Versuch 💨",
+      "Man kann's ja mal probieren, was?",
+      "Der Button hat Vertrauensprobleme mit deiner Maus.",
+      "Sorry, 'Nein' ist gerade nicht erreichbar.",
+      "Dieser Button glaubt an bessere Antworten.",
+      "Kleiner Tipp: der Ja-Button rennt nicht weg 👀",
+      "Er trainiert gerade für den Beziehungs-Marathon.",
+      "Nein sagen? In dieser Beziehung? Niemals.",
+      "Hartnäckig, das gefällt mir.",
+      "Der Button hat sich rechtlich beraten lassen.",
+      "Noch ein Versuch und er wechselt die Stadt.",
+      "Klick doch einfach 'Ja', spart uns beiden Zeit 😄",
+      "Er läuft schneller als deine Geduld reicht.",
+      "Diese Antwort ist aktuell ausverkauft.",
   ];
   let tries = 0;
 
