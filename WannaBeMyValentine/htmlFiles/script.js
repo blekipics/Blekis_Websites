@@ -22,7 +22,7 @@
       "Noch ein Versuch und er wechselt die Stadt.",
       "Klick doch einfach 'Ja', spart uns beiden Zeit 😄",
       "Er läuft schneller als deine Geduld reicht.",
-      "Diese Antwort ist aktuell ausverkauft.",
+      "Diese Antwort ist aktuell ausverkauft."
   ];
   let tries = 0;
 
