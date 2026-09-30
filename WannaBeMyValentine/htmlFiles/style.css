@@ -25,6 +25,17 @@
     position: relative;
   }
 
+  .credit{
+    position: fixed;
+    bottom: 12px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 1rem;
+    color: var(--plum-soft);
+    opacity: 0.6;
+    z-index: 2;
+  }
+
   .hearts {
     position: fixed;
     inset: 0;
